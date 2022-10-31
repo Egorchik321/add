@@ -1,3 +1,3 @@
-# add
+# Paghes
 
 https://egorchik321.github.io/lab2.1-web/
